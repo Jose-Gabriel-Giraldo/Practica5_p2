@@ -1,0 +1,3 @@
+E:\Aplicaciones\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Practica5_p2.dir/objects.a
+E:\Aplicaciones\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\Practica5_p2.dir/objects.a @CMakeFiles\Practica5_p2.dir\objects1.rsp
+E:\Aplicaciones\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\Practica5_p2.dir/objects.a -Wl,--no-whole-archive -o Practica5_p2.exe -Wl,--out-implib,libPractica5_p2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Practica5_p2.dir\linkLibs.rsp
