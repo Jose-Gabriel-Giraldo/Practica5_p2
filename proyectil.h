@@ -16,6 +16,8 @@ public:
 
     void mover(double dt, double g);
     bool rebotarParedes(double ancho, double alto);
+    double chocarRectangulo(double ox, double oy, double ancho, double alto, double e);
+    bool tocaRectangulo(double ox, double oy, double ancho, double alto) const;
 };
 
 #endif
