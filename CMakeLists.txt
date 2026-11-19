@@ -23,6 +23,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Practica5_p2
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        proyectil.h proyectil.cpp
+        obstaculo.h obstaculo.cpp
+        juego.h juego.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Practica5_p2 APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

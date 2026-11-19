@@ -1,0 +1,12 @@
+# ninja log v6
+66	8619	8165643860632523	Practica5_p2_autogen/timestamp	364ce5961385c498
+66	8619	8165643860632523	Practica5_p2_autogen/mocs_compilation.cpp	364ce5961385c498
+66	8619	8165643860632523	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica5_p2/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica5_p2_autogen/timestamp	364ce5961385c498
+66	8619	8165643860632523	C:/Users/Jose Gabriel Giraldo/OneDrive/Documentos/Universidad/Sexto semestre/Info/Practica5_p2/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Practica5_p2_autogen/mocs_compilation.cpp	364ce5961385c498
+11336	14172	8165643897045704	CMakeFiles/Practica5_p2.dir/obstaculo.cpp.obj	87480b9a4623e221
+10532	14362	8165643889005246	CMakeFiles/Practica5_p2.dir/proyectil.cpp.obj	12ccc7a4106d7f3a
+12075	15183	8165643904421788	CMakeFiles/Practica5_p2.dir/juego.cpp.obj	c563d499d45fa0d0
+8641	16710	8165643870108782	CMakeFiles/Practica5_p2.dir/Practica5_p2_autogen/mocs_compilation.cpp.obj	c86cf1224449e0dc
+9230	16866	8165643875979545	CMakeFiles/Practica5_p2.dir/main.cpp.obj	ca1aeae256a973fc
+9699	18023	8165643880679598	CMakeFiles/Practica5_p2.dir/mainwindow.cpp.obj	ff4edffcf0f90989
+18024	21569	8165643963926108	Practica5_p2.exe	9af54bb9706a78e0
