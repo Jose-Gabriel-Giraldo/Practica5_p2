@@ -14,4 +14,4 @@ bool Obstaculo::destruido() const { return resistencia <= 0; }
 void Obstaculo::recibirDanio(double danio) {
     resistencia -= danio;
     if (resistencia < 0) resistencia = 0;
-} obstaculo.cpp
+}
